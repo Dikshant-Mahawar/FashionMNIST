@@ -1,0 +1,5 @@
+Point,PyMOO  Acc (%),PyMOO  Infer (ms),PyMOO  Params (K),Optuna Acc (%),Optuna Infer (ms),Optuna Params (K)
+P1 — Highest Accuracy,90.78,0.936,879.1,90.4,0.394,106.0
+P2 — Fastest Inference,87.68,0.221,201.6,83.06,0.228,201.6
+P3 — Smallest Model,88.14,0.311,106.0,90.4,0.394,106.0
+P4 — Knee Point (Balanced),89.66,0.36,207.0,88.26,0.233,201.6

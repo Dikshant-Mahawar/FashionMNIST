@@ -1,0 +1,5 @@
+Point,Accuracy (%),Infer (ms),Params (K),Conv Layers,Channels,FC Units,LR,Batch Size,Epochs,Dropout,Optimizer
+P1 — Highest Accuracy,90.4,0.394,106.0,2,16,64,3.11e-03,64,8,0.05,ADAM
+P2 — Fastest Inference,83.06,0.228,201.6,1,16,64,3.84e-04,128,6,0.1,SGD
+P3 — Smallest Model,90.4,0.394,106.0,2,16,64,3.11e-03,64,8,0.05,ADAM
+P4 — Knee Point (Balanced),88.26,0.233,201.6,1,16,64,1.42e-03,64,8,0.05,SGD

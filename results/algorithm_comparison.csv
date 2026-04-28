@@ -1,0 +1,16 @@
+Metric,PyMOO NSGA-II,Optuna NSGAIISampler
+Algorithm,NSGA-II,NSGA-II
+Framework,PyMOO,Optuna
+Pareto Front Size,23,8
+Total Evaluations,375,60
+Wall Time (min),179.4,21.1
+Hypervolume (HV) ↑,99874.944528,15912.823114
+Spacing Metric (S) ↓,0.2097,0.2222
+Best Accuracy (%),90.78,90.40
+Fastest Inference (ms),0.221,0.228
+Smallest Model (K params),106.0,106.0
+Accuracy Range (%),87.68 – 90.78,83.06 – 90.40
+Infer Time Range (ms),0.221 – 0.936,0.228 – 0.394
+Params Range (K),106.0 – 1608.8,106.0 – 804.6
+Population Size,25,25
+Generations / Trials,15,60
