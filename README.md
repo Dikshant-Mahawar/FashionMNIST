@@ -13,7 +13,7 @@ Deploying image classifiers on resource-constrained devices demands simultaneous
 ### The Three Objectives (optimised simultaneously)
 | # | Objective | Direction |
 |---|-----------|-----------|
-| 1 | Classification Accuracy (Top-1 %) | Maximise |
+| 1 | Classification Accuracy(Negate) (Top-1 %) | Minimse |
 | 2 | Per-sample Inference Time (ms) | Minimise |
 | 3 | Total Trainable Parameters (K) | Minimise |
 
